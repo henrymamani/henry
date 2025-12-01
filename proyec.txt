@@ -1,0 +1,8 @@
+ESTRUCTURA DE CARPETAS
+crear entorno virtual --
+CONSOLE hacer una documentación con las funciones de las librerías
+micro == nano 
+será que voy a poder para la fecha limite?
+puede ser...
+
+modificar el producto-si se equivoca en colocar un dato
